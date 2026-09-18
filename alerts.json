@@ -1,0 +1,8 @@
+{
+    "timestamp": "2026-09-18 10:19:00",
+    "ip": "192.168.1.99",
+    "username": "finance2",
+    "failed_attempts": 3,
+    "severity": "HIGH",
+    "detection": "Possible brute-force attack"
+}
